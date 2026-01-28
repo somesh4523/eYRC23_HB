@@ -31,7 +31,7 @@ This task relies on ROS 2 Humble nodes to manage the complex movement of a 3-Whe
 
 <p align="center">
   <em>
-    [Add your description here — e.g., brief summary of what happens in this video]
+    [Hardware implementation of the Hologlyph Theme]
   </em>
 </p>
 
